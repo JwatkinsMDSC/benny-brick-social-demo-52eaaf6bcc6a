@@ -1,7 +1,7 @@
 {
   "name": "BrickSocial",
   "short_name": "BrickSocial",
-  "description": "Family-only BrickSocial preview for Benjamin. Invite circle — no public signup.",
+  "description": "Invite-only BrickSocial for Benjamin and friends. Private circle — no public signup.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f9f6f5",

@@ -2,4 +2,7 @@
 /upload     /upload.html    200
 /chat       /chat.html      200
 /forum      /forum.html     200
+/join       /join.html      200
+/account    /account.html   200
+/admin      /admin.html     200
 /*          /index.html     200
