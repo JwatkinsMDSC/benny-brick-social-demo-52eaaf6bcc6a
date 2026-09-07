@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BrickSocial">
+  <rect width="64" height="64" rx="14" fill="#b5161e"/>
+  <rect x="14" y="24" width="36" height="22" rx="4" fill="#ffefed"/>
+  <circle cx="25" cy="24" r="6" fill="#ffefed"/>
+  <circle cx="39" cy="24" r="6" fill="#ffefed"/>
+  <circle cx="25" cy="24" r="3.2" fill="#b5161e"/>
+  <circle cx="39" cy="24" r="3.2" fill="#b5161e"/>
+</svg>
