@@ -1,21 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" fill="none">
-  <rect width="200" height="200" rx="46" fill="#D32F2F"/>
-  <rect x="2" y="2" width="196" height="196" rx="44" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
-  <g transform="translate(30, 32)">
-    <path d="M70 18 L126 46 L70 74 L14 46 Z" fill="#FFFFFF" opacity="0.95"/>
-    <path d="M14 46 L70 74 L70 114 L14 86 Z" fill="#F4F4F5" opacity="0.85"/>
-    <path d="M70 74 L126 46 L126 86 L70 114 Z" fill="#E4E4E7" opacity="0.75"/>
-    <ellipse cx="70" cy="32" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <path d="M57 32 v7 c0 3.6 5.8 6.5 13 6.5 s13-2.9 13-7 v-6.5" fill="#F4F4F5"/>
-    <ellipse cx="70" cy="32" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <ellipse cx="42" cy="46" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <path d="M29 46 v7 c0 3.6 5.8 6.5 13 6.5 s13-2.9 13-7 v-6.5" fill="#F4F4F5"/>
-    <ellipse cx="42" cy="46" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <ellipse cx="98" cy="46" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <path d="M85 46 v7 c0 3.6 5.8 6.5 13 6.5 s13-2.9 13-7 v-6.5" fill="#F4F4F5"/>
-    <ellipse cx="98" cy="46" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <ellipse cx="70" cy="60" rx="13" ry="6.5" fill="#FFFFFF"/>
-    <path d="M57 60 v7 c0 3.6 5.8 6.5 13 6.5 s13-2.9 13-7 v-6.5" fill="#F4F4F5"/>
-    <ellipse cx="70" cy="60" rx="13" ry="6.5" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="BrickSocial">
+  <rect width="512" height="512" rx="112" fill="#D32F2F"/>
+  <g transform="translate(256 274) scale(1.78) translate(-100 -71)">
+    <path fill="#E57373" d="M164 54 L164 88 L100 120 L100 86 Z"/>
+    <path fill="#FFCDD2" d="M36 54 L36 88 L100 120 L100 86 Z"/>
+    <path fill="#FFFFFF" d="M100 22 L164 54 L100 86 L36 54 Z"/>
+    <g transform="translate(100 33)">
+      <path fill="#F5F5F5" d="M-10 0 V5 A10 5 0 0 0 10 5 V0 A10 5 0 0 1 -10 0 Z"/>
+      <ellipse fill="#FFFFFF" rx="10" ry="5"/>
+      <ellipse fill="#FFCDD2" rx="4.6" ry="2.3"/>
+    </g>
+    <g transform="translate(68 49)">
+      <path fill="#F5F5F5" d="M-10 0 V5 A10 5 0 0 0 10 5 V0 A10 5 0 0 1 -10 0 Z"/>
+      <ellipse fill="#FFFFFF" rx="10" ry="5"/>
+      <ellipse fill="#FFCDD2" rx="4.6" ry="2.3"/>
+    </g>
+    <g transform="translate(132 49)">
+      <path fill="#F5F5F5" d="M-10 0 V5 A10 5 0 0 0 10 5 V0 A10 5 0 0 1 -10 0 Z"/>
+      <ellipse fill="#FFFFFF" rx="10" ry="5"/>
+      <ellipse fill="#FFCDD2" rx="4.6" ry="2.3"/>
+    </g>
+    <g transform="translate(100 65)">
+      <path fill="#F5F5F5" d="M-10 0 V5 A10 5 0 0 0 10 5 V0 A10 5 0 0 1 -10 0 Z"/>
+      <ellipse fill="#FFFFFF" rx="10" ry="5"/>
+      <ellipse fill="#FFCDD2" rx="4.6" ry="2.3"/>
+    </g>
   </g>
 </svg>
