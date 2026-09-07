@@ -2,24 +2,25 @@
   "name": "BrickSocial",
   "short_name": "BrickSocial",
   "description": "Invite-only BrickSocial for Benjamin and friends. Private circle — no public signup.",
-  "start_url": "/",
+  "start_url": "/benny-brick-social-demo-52eaaf6bcc6a/",
+  "scope": "/benny-brick-social-demo-52eaaf6bcc6a/",
   "display": "standalone",
   "background_color": "#f9f6f5",
   "theme_color": "#b5161e",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "/benny-brick-social-demo-52eaaf6bcc6a/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/icon-192.png",
+      "src": "/benny-brick-social-demo-52eaaf6bcc6a/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/benny-brick-social-demo-52eaaf6bcc6a/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

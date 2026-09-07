@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" fill="none">
+  <g transform="translate(0, 7)">
+    <path d="M70 20 L130 50 L70 80 L10 50 Z" fill="#EF4444" stroke="#B91C1C" stroke-width="2"/>
+    <path d="M10 50 L70 80 L70 125 L10 95 Z" fill="#DC2626" stroke="#B91C1C" stroke-width="2"/>
+    <path d="M70 80 L130 50 L130 95 L70 125 Z" fill="#991B1B" stroke="#7F1D1D" stroke-width="2"/>
+    <ellipse cx="70" cy="35" rx="14" ry="7" fill="#FCA5A5" stroke="#DC2626" stroke-width="1.5"/>
+    <path d="M56 35 v8 c0 3.86 6.27 7 14 7 s14-3.14 14-7 v-8" fill="#EF4444" stroke="#DC2626" stroke-width="1.5"/>
+    <ellipse cx="70" cy="35" rx="14" ry="7" fill="#FCA5A5"/>
+    <ellipse cx="40" cy="50" rx="14" ry="7" fill="#FCA5A5" stroke="#DC2626" stroke-width="1.5"/>
+    <path d="M26 50 v8 c0 3.86 6.27 7 14 7 s14-3.14 14-7 v-8" fill="#EF4444" stroke="#DC2626" stroke-width="1.5"/>
+    <ellipse cx="40" cy="50" rx="14" ry="7" fill="#FCA5A5"/>
+    <ellipse cx="100" cy="50" rx="14" ry="7" fill="#FCA5A5" stroke="#DC2626" stroke-width="1.5"/>
+    <path d="M86 50 v8 c0 3.86 6.27 7 14 7 s14-3.14 14-7 v-8" fill="#EF4444" stroke="#DC2626" stroke-width="1.5"/>
+    <ellipse cx="100" cy="50" rx="14" ry="7" fill="#FCA5A5"/>
+    <ellipse cx="70" cy="65" rx="14" ry="7" fill="#FCA5A5" stroke="#DC2626" stroke-width="1.5"/>
+    <path d="M56 65 v8 c0 3.86 6.27 7 14 7 s14-3.14 14-7 v-8" fill="#EF4444" stroke="#DC2626" stroke-width="1.5"/>
+    <ellipse cx="70" cy="65" rx="14" ry="7" fill="#FCA5A5"/>
+  </g>
+</svg>
